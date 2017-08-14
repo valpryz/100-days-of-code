@@ -1,12 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 31, 2017 
+### Day 1: August 14, 2017 
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learn about HTML5 syntax and attributes on edx.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Nothing difficult on html..
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-**Link to ressources**
+**Link to ressources** https://www.edx.org/course/html5-css-fundamentals-w3cx-html5-0x
