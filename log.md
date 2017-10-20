@@ -4,7 +4,7 @@
 
 **Today's Progress**: Complete the part 1, 2 & 3 of Le Wagon coding bootcamp prep
 
-**Thoughts:** I learned to think in terms of UI components, how to organize your css files to be more productive...
+**Thoughts:** I learned to think in terms of UI components, how to organize my css files to be more productive...
 
 **Link to work:** 
 
