@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: October 23, 2017 2h12mn
+
+**Today's Progress**: I finished the course on css and got my certificate at sololearn. I also started the flexbox course flexboxzombies by Dave Geddes
+
+**Thoughts:** Flexbox seem so simple share this course..I hope to test quickly to know if I actually understood
+
+**Link to work:** https://www.sololearn.com/Certificate/1014-1048687/pdf
+
+**Link to ressources** https://www.sololearn.com/Course/CSS/ + http://flexboxzombies.com/
+
+------------------------------------------------------------------------------
+
 ### Day 3: October 22, 2017 1h05mn
 
 **Today's Progress**: continues the study of css on sololearn .. 50% complete
