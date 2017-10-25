@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: October 24, 2017 1h06mn
+
+**Today's Progress**:  I continue my study of css flexbox on flexboxzombies
+
+**Thoughts:** after flex-direction and justify-content, I also understood theoretically align-items
+
+**Link to work:** 
+
+**Link to ressources** http://flexboxzombies.com/
+
+------------------------------------------------------------------------------
 ### Day 4: October 23, 2017 2h12mn
 
 **Today's Progress**: I finished the course on css and got my certificate at sololearn. I also started the flexbox course flexboxzombies by Dave Geddes
