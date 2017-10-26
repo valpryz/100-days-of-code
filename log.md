@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: October 25, 2017 1h08mn
+
+**Today's Progress**: I was really busy today, I had a lot of trouble doing my hour of code but I could still make a slight progress in my learning of CSS flexbox
+
+**Thoughts:** align-self and flex-grow in the pocket!!
+
+**Link to work:** 
+
+**Link to ressources** http://flexboxzombies.com/
+
+------------------------------------------------------------------------------
 ### Day 5: October 24, 2017 1h06mn
 
 **Today's Progress**:  I continue my study of css flexbox on flexboxzombies
