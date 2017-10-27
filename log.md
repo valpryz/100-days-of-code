@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: October 26, 2017 2h06mn
+
+**Today's Progress**: still on my Flexbox CSS layout journey with flexboxzombies 55% completed
+
+**Thoughts:** I could not imagine that this course on flexbox could be so long and difficult .. Fortunately I advance every day
+
+**Link to work:** 
+
+**Link to ressources** http://flexboxzombies.com/
+
+------------------------------------------------------------------------------
+
 ### Day 6: October 25, 2017 1h08mn
 
 **Today's Progress**: I was really busy today, I had a lot of trouble doing my hour of code but I could still make a slight progress in my learning of CSS flexbox
