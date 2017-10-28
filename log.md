@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: October 27, 2017 1h56mn
+
+**Today's Progress**: Continuation of yesterday work with flexboxzombies 72% completed
+
+**Thoughts:** flex-shrink, flex-basis, order in the pocket!! hope i'll use it soon
+
+**Link to work:** 
+
+**Link to ressources** http://flexboxzombies.com/
+
+------------------------------------------------------------------------------
 ### Day 7: October 26, 2017 2h06mn
 
 **Today's Progress**: still on my Flexbox CSS layout journey with flexboxzombies 55% completed
