@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 9: November 07, 2017 3h03mn
+
+**Today's Progress**: After ten days, I finally completed flexboxzombies. I think I'm ready to implement my new knowledge of CSS in works. I also started the practice of the book of Jacques Piaget on the improvement of the memory, section 1 & 2.
+
+
+**Thoughts:**  I really struggled with the last challenge
+
+**Link to work:** 
+
+**Link to ressources** http://flexboxzombies.com/ http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook)
+ 
+------------------------------------------------------------------------------
 ### Day 8: October 27, 2017 1h56mn
 
 **Today's Progress**: Continuation of yesterday work with flexboxzombies 72% completed
