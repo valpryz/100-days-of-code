@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 10: November 08, 2017 3h37mn
+
+**Today's Progress**: I started the Html + css basics course at rithmschool which also provides many practical exercises
+, but I spent more time following tutorials on CSS grids layout. I also continue to practice the improvement of brain, section 3 done.
+
+
+**Thoughts:**  the css grids seem really powerful .. I thought I saw everything with flexboxes. I can not wait to master them
+
+**Link to work:** 
+
+**Link to ressources**  http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) ; https://www.rithmschool.com/courses/html-css-fundamentals ; https://www.youtube.com/watch?v=jV8B24rSN5o (TraversyMedia CSS grids)
+ 
+------------------------------------------------------------------------------
 ### Day 9: November 07, 2017 3h03mn
 
 **Today's Progress**: After ten days, I finally completed flexboxzombies. I think I'm ready to implement my new knowledge of CSS in works. I also started the practice of the book of Jacques Piaget on the improvement of the memory, section 1 & 2.
