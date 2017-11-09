@@ -2,8 +2,7 @@
 
 ### Day 10: November 08, 2017 3h37mn
 
-**Today's Progress**: I started the Html + css basics course at rithmschool which also provides many practical exercises
-, but I spent more time following tutorials on CSS grids layout. I also continue to practice the improvement of brain, section 3 done.
+**Today's Progress**: I started the Html + css basics course at rithmschool bootcamp prep, but I spent more time following tutorials on CSS grids layout. I also continue to practice the improvement of brain, section 3 done.
 
 
 **Thoughts:**  the css grids seem really powerful .. I thought I saw everything with flexboxes. I can not wait to master them
