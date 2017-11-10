@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: November 09, 2017 3h54mn
+
+**Today's Progress**: continue the Html + css basics course at rithmschool bootcamp prep, study maths course at udacity. I also continue to practice the improvement of brain, section 4 done.
+
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources**  http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) ; https://www.rithmschool.com/courses/html-css-fundamentals ; https://www.udacity.com/course/intro-algebra-review--ma004
+ 
+------------------------------------------------------------------------------
 ### Day 10: November 08, 2017 3h37mn
 
 **Today's Progress**: I started the Html + css basics course at rithmschool bootcamp prep, but I spent more time following tutorials on CSS grids layout. I also continue to practice the improvement of brain, section 3 done.
