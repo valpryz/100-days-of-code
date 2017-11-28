@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 12: November 28, 2017 3h54mn
+
+**Today's Progress**: today I started learning Javascript. I'm taking advantage of Kyle Simpson's free week courses at FrontendMasters to understand this language. In parallel I study the course intro to javascript of udacity. At the moment there is nothing complicated. I am currently in conditionnals statements on both courses..
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources**  https://frontendmasters.com/courses/javascript-basics/ ; https://www.udacity.com/course/intro-to-javascript--ud803
+ 
+------------------------------------------------------------------------------
 ### Day 11: November 09, 2017 3h54mn
 
 **Today's Progress**: continue the Html + css basics course at rithmschool bootcamp prep, study maths course at udacity. I also continue to practice the improvement of brain, section 4 done.
