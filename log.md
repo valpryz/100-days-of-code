@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 12: November 28, 2017 3h54mn
+### Day 12: November 28, 2017 4h23mn
 
 **Today's Progress**: today I started learning Javascript. I'm taking advantage of Kyle Simpson's free week courses at FrontendMasters to understand this language. In parallel I study the course intro to javascript of udacity. At the moment there is nothing complicated. I am currently in conditionnals statements on both courses..
 
