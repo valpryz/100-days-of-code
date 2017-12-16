@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: December 15, 2017 2h33mn
+
+**Today's Progress**: Today I made a reminder of the html5 and css3 using the new udacity course "HTML and CSS syntax". A little over 50% of the course completed and understood.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources**  https://www.udacity.com/course/html-and-css-syntax--ud001
+ 
+------------------------------------------------------------------------------
+
 ### Day 12: November 28, 2017 4h23mn
 
 **Today's Progress**: today I started learning Javascript. I'm taking advantage of Kyle Simpson's free week courses at FrontendMasters to understand this language. In parallel I study the course intro to javascript of udacity. At the moment there is nothing complicated. I am currently in conditionnals statements on both courses..
