@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: December 17, 2017 2h12mn
+
+**Today's Progress**: I finally finished udacity's "HTML and CSS syntax" course. Just some ideas on good practices learned. 
+
+**Thoughts:** I am still afraid to face challenges but I hope I start shortly.
+
+
+**Link to work:** 
+
+**Link to ressources**  https://www.udacity.com/course/html-and-css-syntax--ud001
+ 
+------------------------------------------------------------------------------
+
 ### Day 13: December 15, 2017 2h33mn
 
 **Today's Progress**: Today I made a reminder of the html5 and css3 using the new udacity course "HTML and CSS syntax". A little over 50% of the course completed and understood.
