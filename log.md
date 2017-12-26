@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 15: December 26, 2017 3h16mn
+
+**Today's Progress**: I restarted my javascript study at udacity. I also started learning maths lessons (RWM101) at Saylor and I also continued my improvement of my memory
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources** https://www.udacity.com/course/intro-to-javascript--ud803 https://learn.saylor.org/course/view.php?id=38 http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) 
+
 ### Day 14: December 17, 2017 2h12mn
 
 **Today's Progress**: I finally finished udacity's "HTML and CSS syntax" course. Just some ideas on good practices learned. 
