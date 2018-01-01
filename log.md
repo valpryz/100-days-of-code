@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 01, 2018 4h19mn
+
+**Today's Progress**: I completed the lesson 3 of udacity intro to javascript course on if else statements, ternary operators, logical operators, switch statement and I also passed the quizzes and complex problems of this lesson. I also re-started the work on memory improvement.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources** https://www.udacity.com/course/intro-to-javascript--ud803  http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) 
+
+
 ### Day 15: December 26, 2017 3h16mn
 
 **Today's Progress**: I restarted my javascript study at udacity. I also started learning maths lessons (RWM101) at Saylor and I also continued my improvement of my memory
