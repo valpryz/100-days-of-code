@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 02, 2018 2h09mn
+
+**Today's Progress**: continue my javascript study at udacity. the quizzes of lesson 4 on loops (while and for) are really complex. I continue the work on memory improvement.
+
+**Thoughts:** 
+
+**Link to work:** 
+
+**Link to ressources** https://www.udacity.com/course/intro-to-javascript--ud803  http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) 
+
+------------------------------------------------------------------------------
+
 ### Day 16: January 01, 2018 4h19mn
 
 **Today's Progress**: I completed the lesson 3 of udacity intro to javascript course on if else statements, ternary operators, logical operators, switch statement and I also passed the quizzes and complex problems of this lesson. I also re-started the work on memory improvement.
@@ -10,6 +22,7 @@
 
 **Link to ressources** https://www.udacity.com/course/intro-to-javascript--ud803  http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) 
 
+------------------------------------------------------------------------------
 
 ### Day 15: December 26, 2017 3h16mn
 
@@ -20,6 +33,8 @@
 **Link to work:** 
 
 **Link to ressources** https://www.udacity.com/course/intro-to-javascript--ud803 https://learn.saylor.org/course/view.php?id=38 http://www.aryanalibris.com/public/ebook/Piaget_Jacques_-_Comment_acquerir_une_memoire_extraordinaire.zip  (french ebook) 
+
+------------------------------------------------------------------------------
 
 ### Day 14: December 17, 2017 2h12mn
 
