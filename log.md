@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 3: July 02, 2018 3h13mn
+
+Due to long period of inactivities, i have to refresh the basics so i completed the course Scrimba intro to Html https://scrimba.com/g/ghtml and intro to CSS https://scrimba.com/g/gintrotocss but have difficulties with position property, i tried to learn with codeanalogies course but it doesn't work for me. I'll try another.
+
+____________________________________________________________________________________________________________________
+
+
 ### Day 2: May 28, 2018 1h38mn
 
 complete the lesson 01 of Udacity android basics user interface course https://www.udacity.com/course/android-basics-user-interface--ud834, and started the html & css beginner level of Shay Howe https://learn.shayhowe.com/html-css/.
