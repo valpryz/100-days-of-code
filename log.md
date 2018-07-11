@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+
+### Day 4: July 11, 2018 1h02mn
+
+
+I did a good job today,learning JavaScript functions at Udacity https://www.udacity.com/course/intro-to-javascript--ud803 , I understood their design, the parameters and arguments and especially how to invoke them in our programs. I also finished the study of the loops for and switch and I learned some subtleties on incrementation and decrementation.
+
+____________________________________________________________________________________________________________________
+
+
 ### Day 3: July 02, 2018 3h13mn
 
 Due to long period of inactivities, i have to refresh the basics so i completed the course Scrimba intro to Html https://scrimba.com/g/ghtml and intro to CSS https://scrimba.com/g/gintrotocss but have difficulties with position property, i tried to learn with codeanalogies course https://www.codeanalogies.com/csssundae but it doesn't work for me. I'll try another.
