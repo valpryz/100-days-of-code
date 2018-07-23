@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: July 23, 2018 2h05mn
+
+
+Today i continue learning JavaScript functions at Udacity https://www.udacity.com/course/intro-to-javascript--ud803 , I learn a lot about hoisting and shadowing, function declaration and function expression and i completed some course quizzes..
+
+____________________________________________________________________________________________________________________
+
+
 ### Day 4: July 11, 2018 1h02mn
 
 
