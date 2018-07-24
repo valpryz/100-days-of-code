@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: July 24, 2018 1h43mn
+
+I started to learn arrays today on https://www.udacity.com/course/intro-to-javascript--ud803 . Functions took me enough time to understand but i completed this chapter. Arrays seems simple for now, i hope to finish this tomorrow.
+
+____________________________________________________________________________________________________________________
+
 ### Day 5: July 23, 2018 2h05mn
 
 
