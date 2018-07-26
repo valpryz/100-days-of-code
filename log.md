@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 7: July 25, 2018 1h13mn
+
+I started Android basics: User Interface course at Udacity https://www.udacity.com/course/android-basics-user-interface--ud834 . I learnt how to use basics attributes for TextView and also XML syntax for android.
+
+____________________________________________________________________________________________________________________
 ### Day 6: July 24, 2018 1h43mn
 
 I started to learn arrays today on https://www.udacity.com/course/intro-to-javascript--ud803 . Functions took me enough time to understand but i completed this chapter. Arrays seems simple for now, i hope to finish this tomorrow.
