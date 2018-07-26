@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 8: July 26, 2018 6h54mn
+
+I made a clear advance in my learning of Android at Udacity. I've learned how to use RelativeLayout and LinearLayout parent views, how they handle other views. I learned to place elements at equal distances using the layout_weight. I hope to make my first application tomorrow.
+
+I also continued my study of Javascript arrays, methods and properties of arrays. The only property seen for now is ".length" which is also used by strings. Among the methods studied, we have "push()", "pop()", "splice()", "shift()", "reverse()" etc. I still have a lot of difficulties in understanding the forEach() and map() loops, it has been a real headache. I hope to better understand their use soon.
+
+____________________________________________________________________________________________________________________
+
 ### Day 7: July 25, 2018 1h13mn
 
 I started Android basics: User Interface course at Udacity https://www.udacity.com/course/android-basics-user-interface--ud834 . I learnt how to use basics attributes for TextView and also XML syntax for android.
 
 ____________________________________________________________________________________________________________________
+
 ### Day 6: July 24, 2018 1h43mn
 
 I started to learn arrays today on https://www.udacity.com/course/intro-to-javascript--ud803 . Functions took me enough time to understand but i completed this chapter. Arrays seems simple for now, i hope to finish this tomorrow.
