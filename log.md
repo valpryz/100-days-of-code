@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 9: July 27, 2018 6h54mn
+
+today i just finished some exercises on https://www.codewars.com to test my current level in javascript and i realized that i have not even started yet.. I just know that with perseverance I'm going to get there..
+
+____________________________________________________________________________________________________________________
+
 ### Day 8: July 26, 2018 6h54mn
 
 I made a clear advance in my learning of Android at Udacity. I've learned how to use RelativeLayout and LinearLayout parent views, how they handle other views. I learned to place elements at equal distances using the layout_weight. I hope to make my first application tomorrow.
